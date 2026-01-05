@@ -131,7 +131,7 @@ ul li a:hover {
 }
 
 /* Subtle styling for the 'Coming Soon' text */
-ul li:first-child {
+ul li:last-child {
     color: #888;
     font-style: italic;
 }
